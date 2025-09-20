@@ -59,3 +59,11 @@ This project is designed as a **menu-driven software** for learning and practice
    ```bash
    git clone https://github.com/theayushgupta08/Automobile-Management-System.git
    cd Automobile-Management-System
+   
+2. Compile the project:
+    ```bash
+    g++ "Automobile Management System.cpp" -o Automobile.exe
+
+3. Run the program:
+   ```bash
+    ./Automobile.exe
