@@ -57,5 +57,5 @@ This project is designed as a **menu-driven software** for learning and practice
 ### Running the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Automobile-Management-System.git
+   git clone https://github.com/theayushgupta08/Automobile-Management-System.git
    cd Automobile-Management-System
